@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Spring-dome-could/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-hii/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-hystrix2/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-dome-could/config-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../Spring-dome-could/out" />
+  </component>
+</project>

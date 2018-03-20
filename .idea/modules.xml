@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-dome-could.iml" filepath="$PROJECT_DIR$/Spring-dome-could.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/config-server/config-server.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-hii/service-hii.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-hii/service-hii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-hystrix/service-hystrix.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-hystrix/service-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-hystrix2/service-hystrix2.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-hystrix2/service-hystrix2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-dome-could/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../Spring-dome-could/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
